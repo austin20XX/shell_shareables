@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/Skull_Kid/Documents/Sem7/OS/c_refresh/assignment1-CProgrammingModules/allocation'
+let g:netrw_dirhist_2='/home/Skull_Kid/Documents/testingstuff/GL'
+let g:netrw_dirhist_3='/home/Skull_Kid/Documents/Sem7/4450/homework_5'
+let g:netrw_dirhist_4='/home/Skull_Kid/Documents/ProjectEuler/id_1'
+let g:netrw_dirhist_5='/home/Skull_Kid/Documents/Sem8/ece3220/01/1.16'
+let g:netrw_dirhist_6='/home/Skull_Kid/.vim'
