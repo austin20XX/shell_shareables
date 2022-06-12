@@ -1,0 +1,2 @@
+#Git Aliases
+alias gitfp="git fetch origin && git pull origin"
